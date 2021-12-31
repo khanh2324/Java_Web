@@ -26,83 +26,7 @@
 </head>
 <body>
     <div class="main">
-        <!-- Header -->
-        <div class="header navbar navbar-expand-lg navbar-light fixed-top d-flex">
-            <div class="container">
-                
-                <div class="col-lg-2 col-10 header-logo">
-                    <a class="header-logo_link" href="#">
-                        <div class="header-logo_img"></div>
-                    </a>
-                </div>
-
-                <div class="col-lg-8 header-nav d-flex">
-                    <ul class="header-nav_list d-lg-flex d-none">
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Xuất bản</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Sách</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Xã hội</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Thế giới</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Kinh doanh</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Công nghệ</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Sức khoẻ</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Thể thao</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Giải trí</a>
-                        </li>
-                        <li class="header-nav_item">
-                            <a href="" class="header-nav_link">Đời sống</a>
-                        </li>
-                    </ul>
-
-                    <div class="header-nav_btn">
-                        <i class="fas fa-ellipsis-h"></i>
-                    </div>
-                </div>
-
-                <div class="col-lg-2">
-                    <div class="d-flex justify-content-end">
-                        <div class="header-search">
-                            <i class="bi bi-search"></i>
-                        </div>
-
-                        <div class="header-user">
-                            <i class="bi bi-person-circle"></i>
-
-                            <div class="user-options d-none">
-                                <ul class="user-options_list">
-                                    <li class="user-options_item">
-                                        <a href="" class="user-options_link">Đăng ký</a>
-                                    </li>
-                                    <li class="user-options_item">
-                                        <a href="" class="user-options_link">Đăng nhập</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        
-
-                    </div>
-                    
-                </div>
-            </div>
-            
-        </div>
+        <jsp:include page="header.jsp"></jsp:include>
 
         <!-- Sub Nav -->
         <div class="header-subnav navbar navbar-expand-lg navbar-light fixed-top d-none">
@@ -801,38 +725,7 @@
             </div>
         </div>
 
-        <div class="footer">
-            <div class="container">
-                <div class="footer-wrap d-flex justify-content-start flex-wrap">
-                    <div class="col-lg-4 col-6">
-                        <div class="footer-logo"></div>
-                        <div class="footer-content">
-                            <span>Tạp chí điện tử Tri thức trực tuyến</span><br>
-                            <span>Phụ trách điều hành: Nguyễn Duy Khánh</span><br>
-                            <span>Nhóm : Đồ án, Lớp: LTML 1 K12 Trường Cao Đẳng Bách Khoa</span> <br><br>
-                            <span>&copy; Bản quyền thuộc về Bách Khoa News</span>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-6">
-                        <div class="footer-contact">
-                            <div>
-                                Hotline: 0934.222.111 - Email: bachkhoanews@gmail.com
-                            </div>
-                            <div class="footer-social d-flex">
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-google"></i></a>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-12">
-                        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FB%25C3%25A1ch-Khoa-News-101628475737965%2F%3Fref%3Dpages_you_manage&tabs=timeline&width=324&height=250&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="324" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <jsp:include page="footer.jsp"></jsp:include>
     </div>
     
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
