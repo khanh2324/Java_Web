@@ -1,23 +1,30 @@
 /* Mobile & tablet */
-@media (max-width: 1023px){
-    .header-logo_img{
-        background-position: center center;
-        padding-top: 10%;
-    }
+@media (max-width: 1020px){
 
     .multimedia-right_news{
         margin-top: 16px;
+        padding: 0 8px;
+    }
+
+    .multimedia-right{
+        margin-left: 0;
+    }
+
+    .container{
+        margin-left: unset;
     }
 
 }
 
 /* Tablet */
-@media (min-width: 740px) and (max-width: 1023px) {
+@media (min-width: 740px) and (max-width: 1020px) {
     
 }
 
 /* Mobile */
 
-@media (min-width: 768px){
-    
+@media (max-width: 768px){
+    .hide-on-mobile{
+        display: none;
+    }
 }

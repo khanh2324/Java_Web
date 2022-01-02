@@ -28,304 +28,9 @@
     <div class="main">
         <jsp:include page="header.jsp"></jsp:include>
 
-        <!-- Sub Nav -->
-        <div class="header-subnav navbar navbar-expand-lg navbar-light fixed-top d-none">
-            <div class="container flex-wrap">
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 header-subnav_wrap">
-                    <div class="header-subnav_title">Xã Hội</div>
-                    <ul class="header-subnav_list">
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Chính trị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Nhân sự mới</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Đô thị</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Giao thông</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Saigon Metro</a>
-                        </li>
-                        <li class="header-subnav_item">
-                            <a href="" class="header-subnav_link">Sáng kiến chống dịch</a>
-                        </li>
-                    </ul>
-                </div>
-
-                
-            </div>
-        </div>
-
         <!-- Tag hot -->
         <div class="tag-hot ">
-            <div class="container d-flex justify-content-start align-items-center">
+            <div class="container d-none d-lg-flex justify-content-start align-items-center">
                 <i class="far fa-arrow-alt-circle-right tag-hot_icon"></i>
 
                 <div class="tag-hot_name">Số liệu Covid-19</div>
@@ -377,8 +82,8 @@
                         
                         
                     </div>
-                    <div class="col-lg-8 d-flex">
-                        <div class="col-lg-8">
+                    <div class="col-lg-8 d-md-flex ">
+                        <div class="col-lg-8 col-xs-12">
                             <div class="content-main_news">
                                 <img src="./img/main-news.webp" alt="" class="content-main_news-img">
                                 <h1 class="content-main_news-title" id="news-title">F0 ở Hà Nội phải tự chữa bệnh vì gọi y tế phường nhưng không ai đến</h1>
@@ -389,7 +94,7 @@
                                 <a href="" id="news-title" class="content-left_news-title">Hà Nội ghi nhận thêm 1622 ca mắc Covid-19 mới</a>
                             </div>
                         </div>
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 col-xs-12">
                             <div class="content-right_news">
                                 <img src="./img/quynhdanh6.webp" alt="" class="content-right_news-img">
                                 <a href="" class="content-right_news-title" id="news-title">
@@ -413,7 +118,7 @@
                         <div class="multimedia-title">Multimedia</div>
 
                         <div class="multimedia-nav">
-                            <ul class="multimedia-nav_list d-flex">
+                            <ul class="multimedia-nav_list d-md-flex d-none">
                                 <li class="multimedia-nav_item">
                                     <a href="" class="multimedia-nav_link">Video</a>
                                 </li>
@@ -730,54 +435,7 @@
     
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
     <script src="./js/owl.carousel.min.js"></script>
-    <script>
-        
-        $(document).ready(function(){
-            $('.owl-carousel').owlCarousel({
-                loop: false,
-                margin:10,
-                nav: true,
-                dots: false,
-                slideBy: 5,
-                rewind: false,
-                responsive:{
-                    0:{
-                        items:1
-                    },
-                    600:{
-                        items:3
-                    },
-                    1000:{
-                        items:5
-                    }
-                }
-            })
-
-            // Sub nav
-            $('.header-nav_btn').click(function() {
-                var SubNavNone = $('.header-subnav').hasClass('d-none');
-                if (SubNavNone) {
-                    $('.header-subnav').removeClass('d-none');
-                } 
-                else {
-                    $('.header-subnav').addClass("d-none");
-                }
-            })
-
-            $('.header-user').click(function() {
-                var UserNone = $('.user-options').hasClass('d-none');
-                if (UserNone) {
-                    $('.user-options').removeClass('d-none');
-                } 
-                else {
-                    $('.user-options').addClass("d-none");
-                }
-            })
-        });
-        
-       
-        
-        
-    </script>
+    <script src="./js/main.js"></script>
+ 	
 </body>
 </html>
