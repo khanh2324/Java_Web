@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style-resgister.css">
     <link rel="stylesheet" href="../css/shared.css">
-    <title>DigiTicket - Đăng nhập</title>
+    <title>Đăng nhập</title>
 </head>
 <body>
     <div class="main">
@@ -29,7 +31,7 @@
           <a href="" class="form-forgot_password">Quên mật khẩu ?</a>
 
           <button class="form-submit">Đăng nhập</button>
-          <a href="./register.html" class="form-btn_convert">Đăng ký</a>
+          <a href="./resgister.jsp" class="form-btn_convert">Đăng ký</a>
 
         </form>
       

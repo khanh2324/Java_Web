@@ -66,10 +66,10 @@
                             <div class="user-options d-none">
                                 <ul class="user-options_list">
                                     <li class="user-options_item">
-                                        <a href="" class="user-options_link">Đăng ký</a>
+                                        <a href="./Resgister/resgister.jsp" class="user-options_link">Đăng ký</a>
                                     </li>
                                     <li class="user-options_item">
-                                        <a href="" class="user-options_link">Đăng nhập</a>
+                                        <a href="./Resgister/login.jsp" class="user-options_link">Đăng nhập</a>
                                     </li>
                                 </ul>
                             </div>
