@@ -23,8 +23,9 @@
     <link rel="stylesheet" href="./css/shared.css">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/responsive.css">
-    <link rel="stylesheet" href="./css/style.css">
-    <link rel="stylesheet" href="./css/style-homenew.css">
+    <link rel="stylesheet" href="./css/style_homenew.css">
+    <link rel="stylesheet" href="./css/share_homenew.css">
+    <link rel="stylesheet" href="./css/responsive_homenew.css">
 </head>
 <body>
 
