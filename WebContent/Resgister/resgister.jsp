@@ -13,11 +13,9 @@
 <body>
     <div class="main">
         <form action="" method="POST" class="form" id="form-1">
-          <div class="header-logo">
-            <a href="../index.html">
-              <img src="../assets/img/Logo-main/Digiticket.png" alt="">
-            </a>
-          </div>
+          <a href="../index.jsp" class="header-logo">
+            <img src="../img/main-logo.png" alt="">
+          </a>
           <h3 class="heading">Đăng ký</h3>
       
           <div class="spacer"></div>
