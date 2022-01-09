@@ -30,10 +30,10 @@
     
                     <div class="content-introduce_wrap">
                         <div class="content-introduce_text">
-                            <b>Bách Khoa New</b> được xây dựng dựa trên tiêu chí là cổng thông tin khổng lồ và hoàn toàn miễn phí về các vấn đề xã hội, chính trị...  đặc biệt là thú cưng, cụ thể như các bệnh về chó mèo, các thực phẩm dinh dưỡng dành cho thú cưng, cách chăm sóc và điều trị bệnh cho chó mèo… Tất cả những thông tin tại Monspet được sưu tầm và tham khảo từ nhiều nguồn khác nhau có chọn lọc, bên cạnh đó còn là trải nghiệm thực tế của chúng tôi trong quá trình nuôi thú cưng để đem đến cho độc giả những thông tin chính xác và hữu ích nhất.
+                            <b>Bách Khoa New</b> được xây dựng dựa trên tiêu chí là cổng thông tin khổng lồ và hoàn toàn miễn phí về các vấn đề xã hội, chính trị … Tất cả những thông tin tại Bách Khoa New  được sưu tầm và tham khảo từ nhiều nguồn khác nhau có chọn lọc, thông tin là hoàn toàn chính xác và luôn là những tin tức mới nhất.
                         </div>
                         <div class="content-introduce_text">
-                            <a href="">Bách Khoa News</a> còn là nơi kết nối, truyền tải thông tin từ bác sĩ thú y tới người đọc nhằm cung cấp đến cho người nuôi động vật, thú cưng những thông tin chính xác nhất, được kiểm duyệt từ đội ngũ bác sĩ thú y đầy uy tín. Chúng tôi thành lập Monspet dựa trên tình yêu thương dành cho động vật, thú nuôi với mong muốn tất cả các bé chó mèo, thú nuôi sẽ được chăm sóc, cứu chữa kịp thời, và không một bé nào phải “ra đi” vì chủ nuôi hay người đang cần thông tin lại không được cung cấp thông tin một cách chính xác và đầy đủ.
+                            <a href="">Bách Khoa News</a> còn là nơi kết nối, truyền tải thông tin từ khắp mọi nơi trên thế giới giúp bạn đọc luôn cập nhập được mọi thông tin ở mọi lĩnh vực không những vậy Bách Khoa News còn là một kho giải chí cực lớn với những câu chuyện đặc sắc trong cuộc sống hang ngày và page luôn luôn cập nhập những thông tin mới nhất để phục vụ quý đọc giả.
                         </div>
                     </div>
                 </div>
@@ -46,19 +46,19 @@
                 <div class="col-md-6">
                     <div class="content-introduce_title">Sứ mệnh</div>
                     <div class="content-introduce_text">
-                        Sứ mệnh của chúng tôi là mang đến cho độc giả, những người yêu thương thú cưng những thông tin nhanh chóng và chính xác nhất. Nhằm đảm bảo và giảm thiểu những trường hợp vì thiếu thông tin mà gây ra những việc hậu quả đáng tiếc.
+                        Sứ mệnh của chúng tôi là mang đến cho độc giả, những người người mang lại động lực cho chúng tôi thực hiện dự  án  <b>Bách Khoa News</b> New này nhưng thông tin hay và bổ ích. 
                     </div>
                     <div class="content-introduce_text">
-                        <b>Mon’s Pet</b> cam kết mang lại cho độc giả một trải nghiệm tốt nhất trong ngành chăm sóc thú cưng. Chúng tôi cũng như các chủ nuôi – hay những người yêu quý động vật, đều dành một tình yêu to lớn cho những người bạn bốn chân. Monspet sẽ luôn đồng hành cùng với mọi người để giúp những người bạn bốn chân của chúng ta nhận ra rằng chúng đang được yêu thương và quý trọng như thế nào..
-                    </div>
+                        <b>Bách Khoa News</b> cam kết mang lại cho độc giả một trải nghiệm tốt nhất sau những ngày dài làm việc mệt mỏi. Bách Khoa News sẽ luôn đồng hành cùng với mọi người và sẽ luôn cùng những đọc giả thân yêu xan sẻ những niềm vui trong cuộc sống.
+					</div>
                 </div>
                 <div class="col-md-6">
                     <div class="content-introduce_title">Tầm nhìn</div>
                     <div class="content-introduce_text">
-                        Chúng tôi mong muốn <b>Mon‘s Pet</b> sẽ trở thành địa chỉ tìm kiếm thông tin đáng tin cậy cho những người quan tâm và yêu thương động vật. Và quan trọng hơn, Monspet sẽ là người bạn đồng hành thân cậy với mọi người trong quá trình chăm sóc thú nuôi.
+                        Chúng tôi mong muốn <b>Bách Khoa News</b> sẽ trở thành địa chỉ tìm kiếm thông tin đáng tin cậy cho tất cả mọi người. Quan trong hơn Bách khoa New sẽ luôn là người bạn cũng như một công cự tuyệt vời để mọi người cập nhập tin tức.
                     </div>
                     <div class="content-introduce_text">
-                        Chúng tôi sẽ không ngừng nỗ lực và phát triển, phủ rộng thông tin đến mọi miền đất nước, đến những nơi cần chúng tôi trong hành trình chăm sóc động vật – thú cưng..
+                        Chúng tôi sẽ không ngừng nỗ lực và phát triển, phủ rộng thông tin đến mọi miền đất nước, đến những nơi cần chúng tôi.
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
 
                 <div class="col-md-6">
                     <div class="content-introduce_text">
-                        Sứ mệnh của chúng tôi là mang đến cho độc giả, những người yêu thương thú cưng những thông tin nhanh chóng và chính xác nhất. Nhằm đảm bảo và giảm thiểu những trường hợp vì thiếu thông tin mà gây ra những việc hậu quả đáng tiếc.
+                        <b>Bách Khoa News</b> chúc tất cả đọc giả yêu quý có một ngày tuyệt vời và cảm ơn quý vị đã ghé thăm và ủng hộ chúng tôi !
                     </div>
                 </div>
             </div>
