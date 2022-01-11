@@ -85,5 +85,9 @@
         </div>
     </div>
 	<jsp:include page="../footer.jsp"></jsp:include>
+	
+	<script src="../js/jquery.min.js"></script>
+	<script src="../js/owl.carousel.min.js"></script>
+	<script src="../js/main.js"></script>
 </body>
 </html>
