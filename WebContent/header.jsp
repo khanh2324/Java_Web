@@ -13,7 +13,7 @@
                 <div class="col-lg-8 col-xs-2 header-nav d-flex">
                     <ul class="header-nav_list d-lg-flex d-none">
                         <li class="header-nav_item">
-                            <a href="./introduce/introduce.jsp" class="header-nav_link">Giới thiệu</a>
+                            <a href="introduce.jsp" class="header-nav_link">Giới thiệu</a>
                         </li>
                         <li class="header-nav_item">
                             <a href="" class="header-nav_link">Sách</a>
@@ -66,10 +66,10 @@
                             <div class="user-options d-none">
                                 <ul class="user-options_list">
                                     <li class="user-options_item">
-                                        <a href="./Resgister/resgister.jsp" class="user-options_link">Đăng ký</a>
+                                        <a href="./resgister.jsp" class="user-options_link">Đăng ký</a>
                                     </li>
                                     <li class="user-options_item">
-                                        <a href="./Resgister/login.jsp" class="user-options_link">Đăng nhập</a>
+                                        <a href="./login.jsp" class="user-options_link">Đăng nhập</a>
                                     </li>
                                 </ul>
                             </div>

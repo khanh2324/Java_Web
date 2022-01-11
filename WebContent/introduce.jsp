@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Giới thiệu</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
     <!-- Link Font -->
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
@@ -12,14 +12,15 @@
     <!--Font Awesome --> 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!-- CSS-->
-    <link rel="stylesheet" href="../css/bootstrap.css">
-    <link rel="stylesheet" href="../css/shared.css">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/responsive.css">
-    <link rel="stylesheet" href="./introduce.css">
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/shared.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/responsive.css">
+    <link rel="stylesheet" href="./css/introduce.css">
 </head>
 <body>
-	<jsp:include page="../header.jsp"></jsp:include>
+	<jsp:include page="header.jsp"></jsp:include>
+	
 	   <div class="content-introduce">
         <div class="container">
             <div class="d-flex flex-wrap">
@@ -38,7 +39,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <img src="../img/about-us.png" alt="" class="content-introduce_img">
+                    <img src="./img/about-us.png" alt="" class="content-introduce_img">
                 </div>
             </div>
 
@@ -84,10 +85,10 @@
             
         </div>
     </div>
-	<jsp:include page="../footer.jsp"></jsp:include>
+	<jsp:include page="footer.jsp"></jsp:include>
 	
-	<script src="../js/jquery.min.js"></script>
-	<script src="../js/owl.carousel.min.js"></script>
-	<script src="../js/main.js"></script>
+	 <script src="./js/jquery.min.js"></script>
+    <script src="./js/owl.carousel.min.js"></script>
+    <script src="./js/main.js"></script>
 </body>
 </html>
