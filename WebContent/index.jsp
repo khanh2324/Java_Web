@@ -47,7 +47,7 @@
                     <div class="col-lg-4 d-none d-lg-block">
                         <div class="content-left_news d-flex">
                             <img src="./img/Trang_xau_2.webp" alt="" class="content-left_news-img">
-                            <a href="" id="news-title" class="content-left_news-title">
+                            <a href="./home-new.jsp" id="news-title" class="content-left_news-title">
                                 Doctor Strange ác quỷ tái xuất trong 'Multiverse of Madness
                             </a>
                         </div>
