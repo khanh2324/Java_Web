@@ -6,7 +6,7 @@
 }
 
 .header-logo_img{
-    background-image: url("../img/main-logo.png");
+    background-image: url("../main-logo.png");
     padding-top: 35%;
     background-repeat: no-repeat;
     background-size: contain;

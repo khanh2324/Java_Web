@@ -51,7 +51,7 @@
                 </div>
 
                 <div class="d-lg-none d-flex align-center header-logo">
-                    <img src="./img/main-logo.png" alt="" class="header-logo_mobile">
+                    <img src="./main-logo.png" alt="" class="header-logo_mobile">
                 </div>
 
                 <div class="col-lg-2 hide-on-mobile">
