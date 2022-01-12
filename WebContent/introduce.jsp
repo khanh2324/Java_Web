@@ -24,7 +24,7 @@
 	   <div class="content-introduce">
         <div class="container">
             <div class="d-flex flex-wrap">
-                <div class="col-md-6">
+                <div class="col-md-6 col-12">
                     <div class="content-introduce_header">
                         <h1>Bách Khoa News là:</h1>
                     </div>
@@ -38,13 +38,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 col-12">
                     <img src="./img/about-us.png" alt="" class="content-introduce_img">
                 </div>
             </div>
 
             <div class="d-flex flex-wrap">
-                <div class="col-md-6">
+                <div class="col-md-6 col-12">
                     <div class="content-introduce_title">Sứ mệnh</div>
                     <div class="content-introduce_text">
                         Sứ mệnh của chúng tôi là mang đến cho độc giả, những người người mang lại động lực cho chúng tôi thực hiện dự  án  <b>Bách Khoa News</b> New này nhưng thông tin hay và bổ ích. 
@@ -53,7 +53,7 @@
                         <b>Bách Khoa News</b> cam kết mang lại cho độc giả một trải nghiệm tốt nhất sau những ngày dài làm việc mệt mỏi. Bách Khoa News sẽ luôn đồng hành cùng với mọi người và sẽ luôn cùng những đọc giả thân yêu xan sẻ những niềm vui trong cuộc sống.
 					</div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 col-12">
                     <div class="content-introduce_title">Tầm nhìn</div>
                     <div class="content-introduce_text">
                         Chúng tôi mong muốn <b>Bách Khoa News</b> sẽ trở thành địa chỉ tìm kiếm thông tin đáng tin cậy cho tất cả mọi người. Quan trong hơn Bách khoa New sẽ luôn là người bạn cũng như một công cự tuyệt vời để mọi người cập nhập tin tức.
@@ -64,8 +64,8 @@
                 </div>
             </div>
 
-            <div class="d-flex">
-                <div class="col-md-6">
+            <div class="d-flex flex-wrap">
+                <div class="col-md-6 col-12">
                     <div class="content-introduce_title">Thành viên Đội Ngũ</div>
                     <div class="content-introduce_text">
                         Trưởng nhóm: Nguyễn Duy Khánh <br>
@@ -76,7 +76,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6">
+                <div class="col-md-6 col-12">
                     <div class="content-introduce_text">
                         <b>Bách Khoa News</b> chúc tất cả đọc giả yêu quý có một ngày tuyệt vời và cảm ơn quý vị đã ghé thăm và ủng hộ chúng tôi !
                     </div>

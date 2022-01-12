@@ -46,30 +46,30 @@
                 <div class="content-hot d-flex">
                     <div class="col-lg-4 d-none d-lg-block">
                         <div class="content-left_news d-flex">
-                            <img src="./img/Trang_xau_2.webp" alt="" class="content-left_news-img">
+                            <img src="./img/news-1.jpg" alt="" class="content-left_news-img">
                             <a href="./home-new.jsp" id="news-title" class="content-left_news-title">
-                                Doctor Strange ác quỷ tái xuất trong 'Multiverse of Madness
+                                Quả cầu pha lê khổng lồ lại rơi ở Quảng trường Thời đại
                             </a>
                         </div>
 
                         <div class="content-left_news d-flex">
-                            <img src="./img/Trang_xau_2.webp" alt="" class="content-left_news-img">
+                            <img src="./img/news-2.jpg" alt="" class="content-left_news-img">
                             <a href="" id="news-title" class="content-left_news-title">
-                                Doctor Strange ác quỷ tái xuất trong 'Multiverse of Madness
+                                Điểm bất thường của lô card đồ họa bị trộm ở Mỹ, đem bán tại Việt Nam
                             </a>
                         </div>
 
                         <div class="content-left_news d-flex">
-                            <img src="./img/Trang_xau_2.webp" alt="" class="content-left_news-img">
+                            <img src="./img/news-3.jpg" alt="" class="content-left_news-img">
                             <a href="" id="news-title" class="content-left_news-title">
-                                Doctor Strange ác quỷ tái xuất trong 'Multiverse of Madness
+                                Chính phủ chốt nghỉ 5 ngày dịp Tết Nhâm Dần
                             </a>
                         </div>
 
                         <div class="content-left_news d-flex">
-                            <img src="./img/Trang_xau_2.webp" alt="" class="content-left_news-img">
+                            <img src="./img/news-4.jpg" alt="" class="content-left_news-img">
                             <a href="" id="news-title" class="content-left_news-title">
-                                Doctor Strange ác quỷ tái xuất trong 'Multiverse of Madness
+                                Nữ diễn viên Trương Đình kiếm 5,7 tỷ USD nhờ công ty đa cấp
                             </a>
                         </div>
 
@@ -96,9 +96,9 @@
                         </div>
                         <div class="col-lg-4 col-xs-12">
                             <div class="content-right_news">
-                                <img src="./img/quynhdanh6.webp" alt="" class="content-right_news-img">
+                                <img src="./img/news-5.jpg" alt="" class="content-right_news-img">
                                 <a href="" class="content-right_news-title" id="news-title">
-                                    TP.HCM sẽ tăng cấp độ dịch các địa bàn không chăm sóc tốt F0 tại nhà
+                                    Phong toả tài khoản chứng khoán của ông Trịnh Văn Quyết
                                 </a>
                             </div>
 
@@ -158,23 +158,23 @@
                             </div>
 
                             <div class="col-lg-6 col-6 multimedia-right_news">
-                                <img src="./img/jun-vu.webp" alt="" class="content-right_news-img">
+                                <img src="./img/news-6.jpg" alt="" class="content-right_news-img">
                                 <a href="" class="content-right_news-title" id="multimedia-title">
-                                    Jun Vũ và dàn người đẹp diện đầm xuyên thấu trên sàn diễn
+                                    Chi tiết Ford Explorer 2022 tại Việt Nam - tăng giá và thêm trang bị
                                 </a>
                             </div>
 
                             <div class="col-lg-6 col-6 multimedia-right_news">
-                                <img src="./img/jun-vu.webp" alt="" class="content-right_news-img">
+                                <img src="./img/news-7.jpg" alt="" class="content-right_news-img">
                                 <a href="" class="content-right_news-title" id="multimedia-title">
-                                    Jun Vũ và dàn người đẹp diện đầm xuyên thấu trên sàn diễn
+                                    2 ngoại binh thử việc ở trận thua 0-3 của CLB Sài Gòn
                                 </a>
                             </div>
 
                             <div class="col-lg-6 col-6 multimedia-right_news">
-                                <img src="./img/jun-vu.webp" alt="" class="content-right_news-img">
+                                <img src="./img/news-8.jpg" alt="" class="content-right_news-img">
                                 <a href="" class="content-right_news-title" id="multimedia-title">
-                                    Jun Vũ và dàn người đẹp diện đầm xuyên thấu trên sàn diễn
+                                    2 ngoại binh thử việc ở trận thua 0-3 của CLB Sài Gòn
                                 </a>
                             </div>
                         </div>
@@ -190,65 +190,65 @@
                     <div class="books-content owl-carousel owl-theme ">
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-1.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Nguyễn Ngọc Tư ra mắt tác phẩm mới</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-2.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Làm thế nào để dạy trẻ quản lý tài chính</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-3.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Đưa cháu về quê ăn tết</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-4.png" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Tìm chủ nhân tương lai của nền văn học</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-5.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Những câu hỏi trên hànhh trình của người trẻ</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-6.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Hiểu về nghệ thuật giao tiếp qua những cuốn sách</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-7.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Nhiều tác phẩm dịch sẽ đến với độc giả Việt</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-9.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Văn học nuôi dưỡng tâm hồn, đun thúc ý chí thiếu nhi</a>
                         </div>
 
                         <div class="item">
                             <div class="books-content_img">
-                                <img src="./img/nxb_th.webp" alt="">
+                                <img src="./img/books-8.jpg" alt="">
                             </div>
-                            <a href="" class="books-content_title" id="news-title">Những nét đặc sắc trong văn hóa tiếng Việt</a>
+                            <a href="" class="books-content_title" id="news-title">Những câu chuyện giúp làm đẹp tâm hồn trẻ</a>
                         </div>
 
                         <div class="item">
@@ -272,106 +272,106 @@
                             <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/a-1.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Món ăn tinh thần ngày Tết của độc giả</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 news-category_wrap">
-                        <div class="news-category_header">Xuất Bản</div>
-                        <img src="./img/caterory.webp" alt="" class="news-category_img d-lg-block d-none">    
-                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Công trình nghiên cứu ý nghĩa thế giới</a>
+                        <div class="news-category_header">Sách Hay</div>
+                        <img src="./img/a-2.jpg" alt="" class="news-category_img d-lg-block d-none">    
+                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Chọn nhớ những điều thương trong đại dịch</a>
 
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/a-3.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Tác động của đại dịch tới những bộ lạc trong lịch sử</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/a-4.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Cảm xúc của các cháu khi về quê</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 news-category_wrap">
-                        <div class="news-category_header">Xuất Bản</div>
-                        <img src="./img/caterory.webp" alt="" class="news-category_img d-lg-block d-none">    
-                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Công trình nghiên cứu ý nghĩa thế giới</a>
+                        <div class="news-category_header">Tác Giả</div>
+                        <img src="./img/a-5.jpg" alt="" class="news-category_img d-lg-block d-none">
+                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Đinh Phương đoạt giải thưởng Tác giả trẻ của Hội Nhà văn Việt Nam</a>
 
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/a-6.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Sự nghiệp hội họa Trịnh Lữ qua sách 'Vẽ gì cũng là tự họa'</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/a-7.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Văn hóa qua nghiên cứu lịch sử của trà</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 news-category_wrap">
-                        <div class="news-category_header">Xuất Bản</div>
-                        <img src="./img/caterory.webp" alt="" class="news-category_img d-lg-block d-none">    
-                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Công trình nghiên cứu ý nghĩa thế giới</a>
+                        <div class="news-category_header">Xã Hội</div>
+                        <img src="./img/a-8.jpeg" alt="" class="news-category_img d-lg-block d-none">    
+                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Quốc hội yêu cầu quyết liệt mở rộng điều tra vụ Việt Á</a>
 
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/a-9.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">TP Hải Dương bỏ quy định xét nghiệm Covid-19 với khách vào quán ăn</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/a-9.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Gây quỹ hỗ trợ bảo vệ, lao công chung cư ở TP.HCM trước Tết Nguyên đán</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 news-category_wrap">
-                        <div class="news-category_header">Xuất Bản</div>
-                        <img src="./img/caterory.webp" alt="" class="news-category_img d-lg-block d-none">    
-                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Công trình nghiên cứu ý nghĩa thế giới</a>
+                        <div class="news-category_header">Kinh Doanh</div>
+                        <img src="./img/b-1.jpg" alt="" class="news-category_img d-lg-block d-none">    
+                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Gợi ý cách bài trí bàn thờ gia tiên trong dịp Tết</a>
 
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-2.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Kỷ lục thanh khoản 155 triệu cổ phiếu FLC</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-3.jpeg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Cushman & Wakefield Việt Nam có tân tổng giám đốc</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 news-category_wrap">
-                        <div class="news-category_header">Xuất Bản</div>
-                        <img src="./img/caterory.webp" alt="" class="news-category_img d-lg-block d-none">    
-                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Công trình nghiên cứu ý nghĩa thế giới</a>
+                        <div class="news-category_header">Công Nghệ</div>
+                        <img src="./img/b-4.jpg" alt="" class="news-category_img d-lg-block d-none">    
+                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Lý do người dùng yêu thích TV The Frame </a>
 
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-5.jpeg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Lý do giúp Tesla trụ vững trước khủng hoảng</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-6.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Lý do giúp Tesla trụ vững trước khủng hoảng</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 news-category_wrap">
-                        <div class="news-category_header">Xuất Bản</div>
-                        <img src="./img/caterory.webp" alt="" class="news-category_img d-lg-block d-none">    
-                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Công trình nghiên cứu ý nghĩa thế giới</a>
+                        <div class="news-category_header">Xe</div>
+                        <img src="./img/b-7.jpg" alt="" class="news-category_img d-lg-block d-none">    
+                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Toyota là hãng xe được tìm kiếm nhiều nhất trên Google năm 2021</a>
 
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-8.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Toyota là hãng xe được tìm kiếm nhiều nhất trên Google năm 2021</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-9.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Vision-S 02 Concept: Bước gia nhập phân khúc xe điện của Sony</a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 news-category_wrap">
-                        <div class="news-category_header">Xuất Bản</div>
-                        <img src="./img/caterory.webp" alt="" class="news-category_img d-lg-block d-none">    
-                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Công trình nghiên cứu ý nghĩa thế giới</a>
+                        <div class="news-category_header">Sức Khoẻ</div>
+                        <img src="./img/b-10.jpg" alt="" class="news-category_img d-lg-block d-none">    
+                        <a href="" id="news-title" class="news-category_title d-lg-block d-none">Cuối năm bận rộn, ăn sáng sao cho ngon mà vẫn đủ chất?</a>
 
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-11.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Thêm 16.019 người mắc Covid-19, Hà Nội 2.884 ca</a>
                         </div>
                         <div class="news-fast d-flex">
-                            <a href=""><img src="./img/dai_tuong_vo_nguyen_giap.webp" alt="" class="news-fast_img"></a>
-                            <a href="" id="news-title" class="news-fast_title">Triển lãm thơ về Đại Tướng Võ Nguyên Giáp</a>
+                            <a href=""><img src="./img/b-12.jpg" alt="" class="news-fast_img"></a>
+                            <a href="" id="news-title" class="news-fast_title">Chưa đủ dữ liệu khẳng định liều vaccine Covid-19 thứ 4 là cần thiết</a>
                         </div>
                     </div>
                 </div>
@@ -395,10 +395,10 @@
 
                     <div class="col-6 col-lg-3 magazine_wrap">
                         <div class="magazine_img">
-                            <img src="./img/thumb_story.webp" alt="">
+                            <img src="./img/c-1.webp" alt="">
                         </div>
                         <div class="magazine_type">Story</div>
-                        <div class="magazine_title">24 giờ ‘bình thường mới’ rảnh rang nhờ  công nghệ</div>
+                        <div class="magazine_title">Ngành dịch vụ karaoke, massage có nguy cơ bị xóa sổ khỏi thị trường?</div>
                         <div class="magazine_icon">
                             <i class="bi bi-bookmarks"></i>
                         </div>
@@ -406,10 +406,10 @@
 
                     <div class="col-6 col-lg-3 magazine_wrap">
                         <div class="magazine_img">
-                            <img src="./img/thumb_story.webp" alt="">
+                            <img src="./img/c-2.webp" alt="">
                         </div>
                         <div class="magazine_type">Story</div>
-                        <div class="magazine_title">24 giờ ‘bình thường mới’ rảnh rang nhờ  công nghệ</div>
+                        <div class="magazine_title">Toan tính khó lý giải của HLV Park</div>
                         <div class="magazine_icon">
                             <i class="bi bi-bookmarks"></i>
                         </div>
@@ -417,10 +417,10 @@
 
                     <div class="col-6 col-lg-3 magazine_wrap">
                         <div class="magazine_img">
-                            <img src="./img/thumb_story.webp" alt="">
+                            <img src="./img/c-3.webp" alt="">
                         </div>
                         <div class="magazine_type">Story</div>
-                        <div class="magazine_title">24 giờ ‘bình thường mới’ rảnh rang nhờ  công nghệ</div>
+                        <div class="magazine_title">Bình Dương vượt qua đại dịch</div>
                         <div class="magazine_icon">
                             <i class="bi bi-bookmarks"></i>
                         </div>
