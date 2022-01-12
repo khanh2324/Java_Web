@@ -14,7 +14,7 @@
     <div class="main">
         <form action="" method="POST" class="form" id="form-1">
           <a href="./index.jsp" class="header-logo">
-            <img src="./img/img-header/main-logo.png" alt="">
+            <img src="./img/main-logo.png" alt="">
           </a>
           <h3 class="heading">Đăng ký</h3>
       

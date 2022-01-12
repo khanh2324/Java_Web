@@ -5,7 +5,7 @@
             <div class="container">
                 
                 <div class="col-lg-2 d-lg-block d-none header-logo">
-                    <a class="header-logo_link" href="#">
+                    <a class="header-logo_link" href="./index.jsp">
                         <div class="header-logo_img"></div>
                     </a>
                 </div>
